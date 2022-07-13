@@ -1,3 +1,5 @@
+THIS IS CURRENT AS OF VERSION 33.1.592088.0
+
 ### ready-at-dawn-echo-arena/_data/5932408047/rad15/win10/
 ## -> manifests
 
