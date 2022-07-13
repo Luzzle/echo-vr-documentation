@@ -1,4 +1,4 @@
-### ready-at-dawn-echo-arena/_data/[TO CONFIRM]/rad15/win10/
+### ready-at-dawn-echo-arena/_data/5932408047/rad15/win10/
 ## -> manifests
 
     If the manifest files are indeed ZSTD files, they are missing the file signature and frame descriptor as outlined here: 
